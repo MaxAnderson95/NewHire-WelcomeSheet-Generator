@@ -12,7 +12,7 @@ Generates a welcome sheet in Google Docs for a new hire based on the information
 
 
 3. Go to the auto generated Responses Google Sheet and open the script editor and paste the script
-![ScreenShot](https://raw.github.com/MaxAnderson95/NewHire-WelcomeSheet-Generator/master/Responses_Google_Sheet.png)
+![ScreenShot](https://raw.github.com/MaxAnderson95/NewHire-WelcomeSheet-Generator/master/Responses_Google_Sheet.PNG)
 
 
 

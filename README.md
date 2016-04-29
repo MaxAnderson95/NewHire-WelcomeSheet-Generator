@@ -5,6 +5,7 @@ Generates a welcome sheet in Google Docs for a new hire based on the information
 1. Create your templates in Google Docs
 ![ScreenShot](https://raw.github.com/MaxAnderson95/NewHire-WelcomeSheet-Generator/master/Template_PC.png)
 ![ScreenShot](https://raw.github.com/MaxAnderson95/NewHire-WelcomeSheet-Generator/master/Template_Mac.png)
+
 2. Create your form
 ![ScreenShot](https://raw.github.com/MaxAnderson95/NewHire-WelcomeSheet-Generator/master/Form.png)
 
